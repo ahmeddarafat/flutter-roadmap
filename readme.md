@@ -6,7 +6,7 @@
 > Roadmap to becoming a Flutter Developer in 2024.
 ---
 <br/>
-  <h1 align="center">:map: Flutter Roadmap — 2024</h1>
+  <h1 align="center">🗺️ Flutter Roadmap — 2024</h1>
 <br/>
 
 <h4 align="center">There is no specific roadmap to learn Flutter So any sources included in this roadmap are personal recommendations. You can choose one or more sources if you wish, or you can search for other sources.</h4>
@@ -15,7 +15,7 @@
 
 ## Content
 
-[**Introduction**]()
+[**Introduction**](https://github.com/ahmeddarafat/flutter-roadmap#introduction)
 
 [**Install flutter and dart**]()
 
