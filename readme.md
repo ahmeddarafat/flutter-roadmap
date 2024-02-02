@@ -2,8 +2,6 @@
   <a href="https://flutter.dev/docs/"><img src="assets/images/flutter_brand.png" width="400px" height="200px" alt="Flutter"></a>
 </p>
 
-> Roadmap to becoming a Flutter Developer in 2024.
----
 <br/>
   <h1 align="center">🗺️ Flutter Roadmap — 2024</h1>
 <br/>
