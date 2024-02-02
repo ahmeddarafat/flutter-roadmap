@@ -17,40 +17,40 @@
 
 [**Introduction**](https://github.com/ahmeddarafat/flutter-roadmap#introduction)
 
-[**Install flutter and dart**]()
+[**Install flutter and dart**](https://github.com/ahmeddarafat/flutter-roadmap#install-flutter-and-dart)
 
-[**Dart**]()
+[**Dart**](https://github.com/ahmeddarafat/flutter-roadmap#dart)
 
-- [Basics]()
-- [Null safety]()
-- [Asynchronous programming]()
-- [OOP]()
-- [SOLID Principles]()
-- [Clean Code]()
+- [Basics](https://github.com/ahmeddarafat/flutter-roadmap#basics)
+- [Null safety](https://github.com/ahmeddarafat/flutter-roadmap#null-safety)
+- [Asynchronous programming](https://github.com/ahmeddarafat/flutter-roadmap#asynchronous-programming)
+- [OOP](https://github.com/ahmeddarafat/flutter-roadmap#oop)
+- [SOLID Principles](https://github.com/ahmeddarafat/flutter-roadmap#solid-principles)
+- [Clean Code](https://github.com/ahmeddarafat/flutter-roadmap#clean-code)
 
-[**Flutter**]()
+[**Flutter**](https://github.com/ahmeddarafat/flutter-roadmap#flutter)
 
-- [Widgets & Ui]()
-- [Database]()
-- [Api]()
-- [State Management]()
-- [Architecture pattern]()
-- [Animation]()
-- [Map]()
-- [Publish App]()
+- [Widgets & Ui](https://github.com/ahmeddarafat/flutter-roadmap#widgets--ui)
+- [Database](https://github.com/ahmeddarafat/flutter-roadmap#database)
+- [Api](https://github.com/ahmeddarafat/flutter-roadmap#api)
+- [State Management](https://github.com/ahmeddarafat/flutter-roadmap#state-managment)
+- [Architecture pattern](https://github.com/ahmeddarafat/flutter-roadmap#architecture-pattern)
+- [Animation](https://github.com/ahmeddarafat/flutter-roadmap#animation)
+- [Map](https://github.com/ahmeddarafat/flutter-roadmap#map)
+- [Publish App](https://github.com/ahmeddarafat/flutter-roadmap#publish-app)
 
-[**Others**]()
+[**Others**](https://github.com/ahmeddarafat/flutter-roadmap#)
 
-- [Data Structures & Algorithms]()
-- [Design Pattern]()
+- [Data Structures & Algorithms](https://github.com/ahmeddarafat/flutter-roadmap#data-structures--algorithms)
+- [Design Pattern](https://github.com/ahmeddarafat/flutter-roadmap#design-pattern)
 
-[**Resources**]()
+[**Resources**](https://github.com/ahmeddarafat/flutter-roadmap#resources)
 
-- [Full Courses]()
-- [Books]()
-- [Free APIs]()
-- [Icons]()
-- [Tools]()
+- [Full Courses](https://github.com/ahmeddarafat/flutter-roadmap#full-courses)
+- [Books](https://github.com/ahmeddarafat/flutter-roadmap#books)
+- [Free APIs](https://github.com/ahmeddarafat/flutter-roadmap#free-apis)
+- [Icons](https://github.com/ahmeddarafat/flutter-roadmap#icons)
+- [Tools](https://github.com/ahmeddarafat/flutter-roadmap#tools)
 
 <br>
 
@@ -63,16 +63,16 @@
 
 ## :rocket: let's start our journey to learn flutter, I will divide the roadmap into different levels
 
-- If you know any one programming language like C# , Java then you can grasp dart with within two to three days.
-- else you will need to study dart well and need to solve some problems then you will Learn.
+- If you know any one programming language like C#, or Java then you can grasp Dart within two to three days.
+- else you will need to study dart well and solve some problems then you will Learn.
 
 <br>
 
 ## :dart: What is Dart?
 
 - Dart is an object-oriented programming language with C-style syntax.
-- It is open-source and developed by Google and released in 2011.
-- The purpose of Dart programming is to create a frontend user interfaces for:
+- It is open-source developed by Google and released in 2011.
+- The purpose of Dart programming is to create frontend user interfaces for:
   - Mobile (Android & IOS) apps.
   - Web apps.
   - Desktop (Windows & MacOS & Linux) apps.
@@ -80,7 +80,7 @@
 ## :pushpin: What is flutter?
 
 - Flutter is a UI toolkit for creating fast, beautiful, natively compiled mobile applications with one programming language and a single codebase,
-  This means that you can use one programming language and one codebase to create two different apps (for iOS and Android).
+  This means you can use one programming language and one codebase to create two different apps (for iOS and Android).
 - It is an open-source development framework developed by Google and released in May 2017. Generally, Flutter is not a language; it is an SDK(Software Development Kit).
 - Flutter apps use Dart programming language for creating an app.
 - Flutter is mainly optimized for 2D mobile apps that can run on both Android and iOS platforms. We can also use it to build full-featured apps,
@@ -96,13 +96,13 @@
 
 ## SDK
 
-- [install flutter in windows](https://www.youtube.com/watch?v=hKA36F0iews&list=PLcfD4HARQRF9ToPIW_kdQjBg6ARV2BXYL&index=5&t=146s)
+- [install flutter in Windows](https://www.youtube.com/watch?v=hKA36F0iews&list=PLcfD4HARQRF9ToPIW_kdQjBg6ARV2BXYL&index=5&t=146s)
 - [install flutter in mac](https://www.youtube.com/watch?v=_352tm2HL_Y&list=PLcfD4HARQRF9ToPIW_kdQjBg6ARV2BXYL&index=2)
-- [install flutter in linux mint](https://www.youtube.com/watch?v=g1R_9s5XsY8&list=PLcfD4HARQRF9ToPIW_kdQjBg6ARV2BXYL&index=3)
+- [install flutter in Linux mint](https://www.youtube.com/watch?v=g1R_9s5XsY8&list=PLcfD4HARQRF9ToPIW_kdQjBg6ARV2BXYL&index=3)
 
 ## IDE
 >
->work with anyone of them
+> Work with anyone of them
 
 - [open DartPad](https://dartpad.dev/?)
 - [install Android Studio](https://www.youtube.com/watch?v=9WT9s7jkGEQ)
@@ -117,13 +117,11 @@
 
 # Dart
 
-In this level you will Learn... ?
-
 ## 1. Basics
 
 - Data types (int, Strings, List, Map, ...etc)
 - Control Flow Statement (conditions, loops)
-- Functions (parameters & its types)
+- Functions (parameters & their types)
 - Operators.
 - Comments.
 
@@ -164,7 +162,7 @@ In this level you will Learn... ?
 
 `Note:`
 
-> **If you are beginner, and you don’t know any `OOP` concepts watch Mosh video about OOP concepts in general : [OOP in 7 minutes.](https://www.youtube.com/watch?v=pTB0EiLXUC8)**.
+> **If you are a beginner, and you don’t know any `OOP` concepts watch Mosh video about OOP concepts in general : [OOP in 7 minutes.](https://www.youtube.com/watch?v=pTB0EiLXUC8)**.
 
 <br>
 
@@ -187,11 +185,9 @@ In this level you will Learn... ?
 
 <br>
 
----
-
 ## 5. SOLID Principles
 
-**The SOLID Principles** are five principles of Object-Oriented class design. They are a set of rules and best practices following while designing a class structure.
+**The SOLID Principles** are five principles of Object-Oriented class design. They are a set of rules and best practices followed while designing a class structure.
 
 - Single Responsibility Principle. (SRP)
 - Open-closed principle. (OCP)
@@ -214,16 +210,16 @@ In this level you will Learn... ?
 
 ## 6. Clean Code
 
-> A programmer can wirte code, a better programmer can write clean code
+> A programmer can write code, a better programmer can write clean code
 
-#### Why should you learn.. ?
+#### Why should you learn..?
 
 - To make your code readable
 - To make your code flexible
 - To make your code testable
 - To make your code maintainable
 
-#### What will you Learn.. ?
+#### What will you Learn..?
 
 - How to tell the difference between good and bad code.
 - How to write good code and how to transform bad code into good code.
@@ -255,15 +251,15 @@ In this level you will Learn... ?
 ## 1. Widgets & Ui
 
 - **1. Basics widgets:**
-  - Basic widgets like MaterialApp, Scaffold, AppBar etc.
+  - Basic widgets like MaterialApp, Scaffold, AppBar, etc.
 - **2. Styling widgets:**
-  - Basic widgets to style a static UI like Text, Container, Row, Column, Asset Image, Network Image, Stack etc.
+  - Basic widgets to style a static UI like Text, Container, Row, Column, Asset Image, Network Image, Stack, etc.
 - **3. Use of Assets in pubspec.yaml:**
   - Know how to use assets(image, video, SVG, images ) and how to add using pubspec.yaml file.
 - **4. Types Of Widgets (StatelessWidget vs StatefulWidget):**
   - Know the difference between stateless and stateful widgets.
 - **5. Navigation & Route:**
-  - Know how to navigate to next screen and back top previous and how to create routes.
+  - Know how to navigate to the next screen and back to the previous and how to create routes.
 
 <br>
 
@@ -339,26 +335,26 @@ In this level you will Learn... ?
 
 <br>
 
-## 4. Api
+## 4. API
 
-If you want to use data live from internet within your app you need to learn ?
+If you want to use data live from the internet within your app you need to learn.
 
 - how to call REST API’s
 - make a Model for the request and response
 - Parsing JSON data into dart objects
 - HTTP requests.(post, delete, get, put)
 
-There are some packages help you deal with apis
+There are some packages that help you deal with APIs
 
 - Dio
-- Http
+- HTTP
 - Retrofit
 
 <br>
 
 #### English
 
-- [REST API integration with Flutter using http package](https://www.youtube.com/watch?v=1rXFKhBZXxY)
+- [REST API integration with Flutter using HTTP package](https://www.youtube.com/watch?v=1rXFKhBZXxY)
 
 #### Arabic
 
@@ -380,8 +376,8 @@ There are some packages help you deal with apis
 
 >The management and manipulation of data within an app to ensure that the user interface (UI) accurately reflects the current state of the application
 
-- [introduction to State Management (Ahmed Abu Eldahab)](https://www.youtube.com/watch?v=TI1XovoHejA)
-- [difference between SetState, Provider, GetX , Cubit and Bloc](https://www.youtube.com/watch?v=Gximhw_pCII)
+- [Introduction to State Management (Ahmed Abu Eldahab)](https://www.youtube.com/watch?v=TI1XovoHejA)
+- [difference between SetState, Provider, GetX, Cubit, and Bloc](https://www.youtube.com/watch?v=Gximhw_pCII)
 
 <br>
 
@@ -405,7 +401,7 @@ There are some packages help you deal with apis
 
 ## 6. Architecture pattern
 
-Some of the prominent architecture patterns
+Some of the prominent architectural patterns
 
 - Model-View-Presenter (MVP)
 - Model-View-Controller (MVC)
@@ -450,7 +446,7 @@ Some of the prominent architecture patterns
 
 ## 9. Publish App
 
-How To Publish your App On Google Play Store and App Store ?
+How To Publish Your App On Google Play Store and App Store?
 
 <br>
 
@@ -473,7 +469,7 @@ How To Publish your App On Google Play Store and App Store ?
 
 ## 1. Data Structures & Algorithms
 
-#### Araic
+#### Arabic
 
 - [Data Structures & Algorithms in Dart](https://www.youtube.com/playlist?list=PLMDrOnfT8EAjT0lBMcmTiRWeaVqKXH5WC)
 
@@ -535,7 +531,7 @@ How To Publish your App On Google Play Store and App Store ?
 
 <br>
 
-# What is next : 🧐
+# What is next: 🧐
 
 You will need to search and keep learning more and more..
 
