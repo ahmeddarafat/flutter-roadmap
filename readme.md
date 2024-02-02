@@ -290,12 +290,16 @@
 ## 3. Database
 
 - Types of database
-- local || remote
-- SQL || NoSQL
+  - local || remote
+  - SQL || NoSQL
+
+<br>
 
 #### Articles
 
 - [Choosing the right database](https://blog.codemagic.io/choosing-the-right-database-for-your-flutter-app/)
+
+<br>
 
 ### 1. SQL - Relational databases
 
@@ -476,6 +480,8 @@ How To Publish Your App On Google Play Store and App Store?
 #### Books
 
 - [Grokking Algorithms](https://edu.anarcho-copy.org/Algorithm/grokking-algorithms-illustrated-programmers-curious.pdf)
+
+<br>
 
 ## 2. Design Patterns
 
