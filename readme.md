@@ -1,6 +1,5 @@
 <p align="center">
-  <a href="https://dart.dev/guides/language/language-tour"><img src="assets/images/logo_dart.svg" width="150px" height="200px" alt="Dart"></a>
-  <a href="https://flutter.dev/docs/"><img src="assets/images/logo_flutter.svg" width="400px" height="200px" alt="Flutter"></a>
+  <a href="https://flutter.dev/docs/"><img src="assets/images/flutter_brand.png" width="400px" height="200px" alt="Flutter"></a>
 </p>
 
 > Roadmap to becoming a Flutter Developer in 2024.
