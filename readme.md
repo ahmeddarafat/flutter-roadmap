@@ -22,28 +22,28 @@
 
 [**Dart**](https://github.com/ahmeddarafat/flutter-roadmap#dart)
 
-- [Basics](https://github.com/ahmeddarafat/flutter-roadmap#basics)
-- [Null safety](https://github.com/ahmeddarafat/flutter-roadmap#null-safety)
-- [Asynchronous programming](https://github.com/ahmeddarafat/flutter-roadmap#asynchronous-programming)
-- [OOP](https://github.com/ahmeddarafat/flutter-roadmap#oop)
-- [SOLID Principles](https://github.com/ahmeddarafat/flutter-roadmap#solid-principles)
-- [Clean Code](https://github.com/ahmeddarafat/flutter-roadmap#clean-code)
+- [Basics](https://github.com/ahmeddarafat/flutter-roadmap#1-basics)
+- [Null safety](https://github.com/ahmeddarafat/flutter-roadmap#2-null-safety)
+- [Asynchronous programming](https://github.com/ahmeddarafat/flutter-roadmap#3-asynchronous-programming)
+- [OOP](https://github.com/ahmeddarafat/flutter-roadmap#4-oop)
+- [SOLID Principles](https://github.com/ahmeddarafat/flutter-roadmap#5-solid-principles)
+- [Clean Code](https://github.com/ahmeddarafat/flutter-roadmap#6-clean-code)
 
 [**Flutter**](https://github.com/ahmeddarafat/flutter-roadmap#flutter)
 
-- [Widgets & Ui](https://github.com/ahmeddarafat/flutter-roadmap#widgets--ui)
-- [Database](https://github.com/ahmeddarafat/flutter-roadmap#database)
-- [Api](https://github.com/ahmeddarafat/flutter-roadmap#api)
-- [State Management](https://github.com/ahmeddarafat/flutter-roadmap#state-managment)
-- [Architecture pattern](https://github.com/ahmeddarafat/flutter-roadmap#architecture-pattern)
-- [Animation](https://github.com/ahmeddarafat/flutter-roadmap#animation)
-- [Map](https://github.com/ahmeddarafat/flutter-roadmap#map)
-- [Publish App](https://github.com/ahmeddarafat/flutter-roadmap#publish-app)
+- [Widgets & Ui](https://github.com/ahmeddarafat/flutter-roadmap#1-widgets--ui)
+- [Database](https://github.com/ahmeddarafat/flutter-roadmap#2-database)
+- [Api](https://github.com/ahmeddarafat/flutter-roadmap#3-api)
+- [State Management](https://github.com/ahmeddarafat/flutter-roadmap#4-state-managment)
+- [Architecture pattern](https://github.com/ahmeddarafat/flutter-roadmap#5-architecture-pattern)
+- [Animation](https://github.com/ahmeddarafat/flutter-roadmap#6-animation)
+- [Map](https://github.com/ahmeddarafat/flutter-roadmap#7-map)
+- [Publish App](https://github.com/ahmeddarafat/flutter-roadmap#8-publish-app)
 
-[**Others**](https://github.com/ahmeddarafat/flutter-roadmap#)
+[**Others**](https://github.com/ahmeddarafat/flutter-roadmap#others)
 
-- [Data Structures & Algorithms](https://github.com/ahmeddarafat/flutter-roadmap#data-structures--algorithms)
-- [Design Pattern](https://github.com/ahmeddarafat/flutter-roadmap#design-pattern)
+- [Data Structures & Algorithms](https://github.com/ahmeddarafat/flutter-roadmap#1-data-structures--algorithms)
+- [Design Pattern](https://github.com/ahmeddarafat/flutter-roadmap#2-design-pattern)
 
 [**Resources**](https://github.com/ahmeddarafat/flutter-roadmap#resources)
 
@@ -288,7 +288,7 @@
 
 > :white_check_mark: **After finishing this level you can be able to create beautiful static user interfaces.**
 
-## 3. Database
+## 2. Database
 
 - Types of database
   - local || remote
@@ -340,7 +340,7 @@
 
 <br>
 
-## 4. API
+## 3. API
 
 If you want to use data live from the internet within your app you need to learn.
 
@@ -377,7 +377,7 @@ There are some packages that help you deal with APIs
 
 <br>
 
-## 5. State Management
+## 4. State Management
 
 >The management and manipulation of data within an app to ensure that the user interface (UI) accurately reflects the current state of the application
 
@@ -404,10 +404,11 @@ There are some packages that help you deal with APIs
 
 <br>
 
-## 6. Architecture pattern
+## 5. Architecture pattern
+
+> Note: you can work with only one
 
 Some of the prominent architectural patterns
-
 - Model-View-Presenter (MVP)
 - Model-View-Controller (MVC)
 - Model-View-Intent (MVI)
@@ -422,7 +423,7 @@ Some of the prominent architectural patterns
 
 - [Unleashing Creativity: Exploring Architecture Patterns in Flutter](https://medium.com/@samra.sajjad0001/unleashing-creativity-exploring-architecture-patterns-in-flutter-12b7465bc927)
 
-## 7. Animation
+## 6. Animation
 
 > Well-designed animations make a UI feel more intuitive, contribute to the slick look and feel of a polished app, and improve the user experience.
 
@@ -436,7 +437,7 @@ Some of the prominent architectural patterns
 
 <br>
 
-## 8. Map
+## 7. Map
 
 #### English
 
@@ -449,7 +450,7 @@ Some of the prominent architectural patterns
 
 <br>
 
-## 9. Publish App
+## 8. Publish App
 
 How To Publish Your App On Google Play Store and App Store?
 
