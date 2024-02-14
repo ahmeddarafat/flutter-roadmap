@@ -40,7 +40,7 @@
 - [Map](https://github.com/ahmeddarafat/flutter-roadmap#7-map)
 - [Publish App](https://github.com/ahmeddarafat/flutter-roadmap#8-publish-app)
 
-[**Others**](https://github.com/ahmeddarafat/flutter-roadmap#others)
+[**Science**](https://github.com/ahmeddarafat/flutter-roadmap#science)
 
 - [Data Structures & Algorithms](https://github.com/ahmeddarafat/flutter-roadmap#1-data-structures--algorithms)
 - [Design Pattern](https://github.com/ahmeddarafat/flutter-roadmap#2-design-pattern)
@@ -114,6 +114,15 @@
 <br>
 
 ---
+
+`Important Note:`
+
+> ### :_: **Flutter are considered technology, and it is important to know that any technology can change and better technology may come over time. So, to be ready for this, you must learn science. This will help you adapt to the emergence or disappearance of any technology because you will learn it easily. Therefore, you must learn science parallel to technology after completing Dart.
+
+
+
+
+**
 
 <br>
 
@@ -492,7 +501,7 @@ How To Publish Your App On Google Play Store and App Store?
 
 <br>
 
-# Others
+# Science
 
 ## 1. Data Structures & Algorithms
 
