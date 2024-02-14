@@ -188,7 +188,7 @@
 
 `Note:`
 
-> ### :white_check_mark: After finishing dart and opp you can be able to start learning flutter. but it's important to learn
+> ### :white_check_mark: **After finishing the previous topics, you can be able to start learning flutter, but it's important to learn the next topics**
 
 <br>
 
@@ -272,14 +272,19 @@
 
 #### English
 
-- [Angela (Udemy course paid)](https://www.udemy.com/course/flutter-bootcamp-with-dart/?fbclid=IwAR0vwfBwCpg1ES_5FdZyyBYzFILsq7mZ1gLLKZ2xWmQdM-BQvhUuHTenNGQ)
+- [Angela (Udemy paid)](https://www.udemy.com/course/flutter-bootcamp-with-dart/?fbclid=IwAR0vwfBwCpg1ES_5FdZyyBYzFILsq7mZ1gLLKZ2xWmQdM-BQvhUuHTenNGQ)
 
 #### Arabic
 
+- [Tharwt Samy (Udemy paid)](https://www.udemy.com/course/best-and-complete-flutter-course-for-beginners/)
+- [Abdullah Mansour (Udemy paid)](https://www.udemy.com/course/complete-flutter-arabic/)
+- [Hassan falah (Udemy paid)](https://www.udemy.com/course/fluttercourse/)
 - [Php Anonymous](https://www.youtube.com/playlist?list=PLcfD4HARQRF9ToPIW_kdQjBg6ARV2BXYL)
 - [Muhammed Essa](https://www.youtube.com/playlist?list=PLMYF6NkLrdN8eHn9nUACpBMfvCpgIdfiW)
 
 #### Short Videos
+
+> Help you when learning flutter
 
 - [Flutter widget of the week](https://www.youtube.com/watch?v=giV9AbM2gd8&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG)
 - [Every Flutter Widget](https://www.youtube.com/watch?v=kj_tldMmu4w&list=PL82uaKJraAILRBFE1XhCyfvu-Fclc6vv1)
@@ -292,7 +297,7 @@
 
 `Note:`
 
-> :white_check_mark: **After finishing this level you can be able to create beautiful static user interfaces.**
+> ### :white_check_mark: **After finishing the previous topics, you can be able to create beautiful static user interfaces, but you should learn the next topics to build a real-world projects.**
 
 ## 2. Database
 
@@ -319,7 +324,7 @@
     - [Docs](https://github.com/tekartik/sqflite/blob/master/sqflite/README.md)
     - [Sqflite Package](https://pub.dev/packages/sqflite)
 
-### 2. NoSQL - nonrelational databases
+### 2. NoSQL - non-relational databases
 
 - **Firebase - remote storage**
   
@@ -348,7 +353,7 @@
 
 ## 3. API
 
-If you want to use data live from the internet within your app you need to learn.
+> If you want to use data live from the internet within your app you need to learn.
 
 - how to call REST API’s
 - make a Model for the request and response
@@ -356,6 +361,8 @@ If you want to use data live from the internet within your app you need to learn
 - HTTP requests.(post, delete, get, put)
 
 There are some packages that help you deal with APIs
+
+> One Package is enough
 
 - Dio
 - HTTP
@@ -385,10 +392,12 @@ There are some packages that help you deal with APIs
 
 ## 4. State Management
 
->The management and manipulation of data within an app to ensure that the user interface (UI) accurately reflects the current state of the application
+> The management and manipulation of data within an app to ensure that the user interface (UI) accurately reflects the current state of the application
 
 - [Introduction to State Management (Ahmed Abu Eldahab)](https://www.youtube.com/watch?v=TI1XovoHejA)
 - [difference between SetState, Provider, GetX, Cubit, and Bloc](https://www.youtube.com/watch?v=Gximhw_pCII)
+
+> One state management is enough (with setState)
 
 <br>
 
@@ -408,13 +417,18 @@ There are some packages that help you deal with APIs
 
 - [Course Getx flutter by Wael Abo Hamza](https://www.youtube.com/playlist?list=PL93xoMrxRJIvZHL420f63bWIOrcoM6NU-)
 
+`Note:`
+
+> ### :white_check_mark: **After finishing the previous topics, you can be able to real-world projects, but it's important to learn the next topics to build flexible, testable, and maintainable projects**
+
 <br>
 
 ## 5. Architecture pattern
 
-> Note: you can work with only one
+> You can work with only one
 
 Some of the prominent architectural patterns
+
 - Model-View-Presenter (MVP)
 - Model-View-Controller (MVC)
 - Model-View-Intent (MVI)
@@ -474,6 +488,7 @@ How To Publish Your App On Google Play Store and App Store?
 <br>
 
 ---
+
 
 <br>
 
