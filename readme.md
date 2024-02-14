@@ -43,7 +43,8 @@
 [**Science**](https://github.com/ahmeddarafat/flutter-roadmap#science)
 
 - [Data Structures & Algorithms](https://github.com/ahmeddarafat/flutter-roadmap#1-data-structures--algorithms)
-- [Design Pattern](https://github.com/ahmeddarafat/flutter-roadmap#2-design-pattern)
+- [Prolem Solving](https://github.com/ahmeddarafat/flutter-roadmap#1-problem-solving)
+- [Design Pattern](https://github.com/ahmeddarafat/flutter-roadmap#3-design-pattern)
 
 [**Resources**](https://github.com/ahmeddarafat/flutter-roadmap#resources)
 
@@ -510,7 +511,22 @@ How To Publish Your App On Google Play Store and App Store?
 
 <br>
 
-## 2. Design Patterns
+## 2. Problem Solving
+
+#### RoadMap
+- [Neet code](https://neetcode.io/roadmap)
+- [Mostafa Saad Sheet](https://docs.google.com/spreadsheets/d/1iJZWP2nS_OB3kCTjq8L6TrJJ4o-5lhxDOyTaocSYc-k/edit#gid=84654839)
+
+#### Sites
+- [Leet code](https://leetcode.com/problemset/)
+- [Codeforces](https://codeforces.com/problemset)
+- [Hacker Rank](https://www.hackerrank.com/dashboard)
+
+<br>
+
+<br>
+
+## 3. Design Patterns
 
 #### English
 
