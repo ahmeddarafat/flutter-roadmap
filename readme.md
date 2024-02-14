@@ -97,13 +97,14 @@
 
 ## SDK
 
-- [install flutter in Windows](https://www.youtube.com/watch?v=hKA36F0iews&list=PLcfD4HARQRF9ToPIW_kdQjBg6ARV2BXYL&index=5&t=146s)
-- [install flutter in mac](https://www.youtube.com/watch?v=_352tm2HL_Y&list=PLcfD4HARQRF9ToPIW_kdQjBg6ARV2BXYL&index=2)
+- [install flutter in Windows](https://www.youtube.com/watch?v=zPPfFx8s-uI&pp=ygUXaW5zdGFsbCBmbHV0dGVyICDYtNix2K0%3D)
+- [install flutter in mac](https://www.youtube.com/watch?v=f09c-nw15K8&pp=ugMICgJhchABGAHKBR5pbnN0YWxsIGZsdXR0ZXIgb24gbWFjICDYtNix2K0%3D)
 - [install flutter in Linux mint](https://www.youtube.com/watch?v=g1R_9s5XsY8&list=PLcfD4HARQRF9ToPIW_kdQjBg6ARV2BXYL&index=3)
 
 ## IDE
->
+
 > Work with anyone of them
+> My preference would be for VS code
 
 - [open DartPad](https://dartpad.dev/?)
 - [install Android Studio](https://www.youtube.com/watch?v=9WT9s7jkGEQ)
