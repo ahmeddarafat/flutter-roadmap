@@ -103,7 +103,7 @@
 
 ## IDE
 
-> Work with anyone of them
+> Work with any of them
 > My preference would be for VS code
 
 - [open DartPad](https://dartpad.dev/?)
@@ -117,12 +117,7 @@
 
 `Important Note:`
 
-> ### :_: **Flutter are considered technology, and it is important to know that any technology can change and better technology may come over time. So, to be ready for this, you must learn science. This will help you adapt to the emergence or disappearance of any technology because you will learn it easily. Therefore, you must learn science parallel to technology after completing Dart.
-
-
-
-
-**
+> ### 🧠: **Flutter is considered technology, and it is important to know that any technology can change and better technology may come over time. So, to be ready for this, you must learn science. This will help you adapt to the emergence or disappearance of any technology because you will learn it easily. Therefore, you must learn science parallel to technology after completing Dart.**
 
 <br>
 
