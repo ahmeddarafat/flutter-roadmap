@@ -121,11 +121,14 @@
 
 ## 1. Basics
 
-- Data types (int, Strings, List, Map, ...etc)
+- Variables
+- Data types (int, double, Strings, boolean, etc...)
+- Data collection (List, Map, etc...)
 - Control Flow Statement (conditions, loops)
 - Functions (parameters & their types)
 - Operators.
-- Comments.
+- Extensions
+
 
 <br>
 
@@ -154,11 +157,13 @@
 ## 4. OOP
 
 - Object-Oriented Concepts (Encapsulation, Polymorphism, Abstraction, Inheritance).
-- Classes and objects
-- constructors
-- Getters & Setters
-- Keywords (static, super, this)
+  - Classes & Objects (instances)
+  - Constructors
+  - Getters & Setters
+  - Overriding
+  - Keywords (static, super, this, implements, extends, etc...)
 - Class Modifiers
+- Enum
 
 <br>
 
