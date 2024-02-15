@@ -79,6 +79,8 @@
   - Web apps.
   - Desktop (Windows & MacOS & Linux) apps.
 
+<br>
+
 ## :pushpin: What is flutter?
 
 - Flutter is a UI toolkit for creating fast, beautiful, natively compiled mobile applications with one programming language and a single codebase,
@@ -87,7 +89,6 @@
 - Flutter apps use Dart programming language for creating an app.
 - Flutter is mainly optimized for 2D mobile apps that can run on both Android and iOS platforms. We can also use it to build full-featured apps,
   including camera, storage, geolocation, network, third-party SDKs, and more.
-
 </br>
 
 ---
@@ -112,9 +113,8 @@
 - [insall VS code](https://www.youtube.com/watch?v=0Tu6qm4umNo&t=214s)
 - [install IntelliJ Idea](https://www.youtube.com/watch?v=rNgGMha2Uss)
 
-<br>
 
----
+<br>
 
 `Important Note:`
 
