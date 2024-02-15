@@ -18,6 +18,8 @@
 
 [**Introduction**](https://github.com/ahmeddarafat/flutter-roadmap#introduction)
 
+[**Important Note**](https://github.com/ahmeddarafat/flutter-roadmap#important-note)
+
 [**Install flutter and dart**](https://github.com/ahmeddarafat/flutter-roadmap#install-flutter-and-dart)
 
 [**Dart**](https://github.com/ahmeddarafat/flutter-roadmap#dart)
@@ -95,6 +97,15 @@
 
 <br>
 
+# Important Note
+
+> ### 🧠: **Flutter is considered technology, and it is important to know that any technology can change and better technology may come over time. So, to be ready for this, you must learn science. This will help you adapt to the emergence or disappearance of any technology because you will learn it easily. Therefore, you must learn science parallel to technology after completing Dart.**
+
+> ### **Conclusion: Learn Dart, then Flutter with Science**
+
+
+<br>
+
 # Install flutter and dart
 
 ## SDK
@@ -113,12 +124,6 @@
 - [insall VS code](https://www.youtube.com/watch?v=0Tu6qm4umNo&t=214s)
 - [install IntelliJ Idea](https://www.youtube.com/watch?v=rNgGMha2Uss)
 
-
-<br>
-
-`Important Note:`
-
-> ### 🧠: **Flutter is considered technology, and it is important to know that any technology can change and better technology may come over time. So, to be ready for this, you must learn science. This will help you adapt to the emergence or disappearance of any technology because you will learn it easily. Therefore, you must learn science parallel to technology after completing Dart.**
 
 <br>
 
