@@ -561,8 +561,11 @@ How To Publish Your App On Google Play Store and App Store?
   - [Hassan falah (Udemy course)](https://www.udemy.com/course/fluttercourse/)
 
 ### Books
-
-- [Books](https://drive.google.com/drive/u/0/folders/1WbtzOf5u9eEjllubxqEyUkCCAgBfVOtY)
+1. Grokky Algorithms
+2. Clean Code
+3. Head First OOAD
+4. Head First Design Patterns
+5. etc...
 
 ### Free APIs You Can Use for Testing
 
@@ -587,7 +590,7 @@ How To Publish Your App On Google Play Store and App Store?
 
 # What is next: 🧐
 
-You will need to search and keep learning more and more..
+You will need to search and keep learning more and more...
 
 <br>
 
