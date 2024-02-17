@@ -35,18 +35,19 @@
 
 - [Widgets & Ui](#1-widgets--ui)
 - [Database](#2-database)
-- [Api](#3-api)
-- [State Management](#4-state-managment)
-- [Architecture pattern](#5-architecture-pattern)
-- [Animation](#6-animation)
-- [Map](#7-map)
-- [Publish App](#8-publish-app)
+- [Firebase](#3-firebase)
+- [Api](#4-api)
+- [State Management](#5-state-management)
+- [Architecture pattern](#6-architecture-pattern)
+- [Animation](#7-animation)
+- [Map](#8-map)
+- [Publish App](#9-publish-app)
 
 [**Science**](#science)
 
 - [Data Structures & Algorithms](#1-data-structures--algorithms)
 - [Prolem Solving](#2-problem-solving)
-- [Design Pattern](#3-design-pattern)
+- [Design Patterns](#3-design-patterns)
 
 [**Resources**](#resources)
 
@@ -278,7 +279,6 @@
 - **5. Navigation & Route:**
   - Know how to navigate to the next screen and back to the previous and how to create routes.
 
-<br>
 
 #### English
 
@@ -309,13 +309,14 @@
 
 > ### :white_check_mark: **After finishing the previous topics, you can be able to create beautiful static user interfaces, but you should learn the next topics to build a real-world projects.**
 
+<br>
+
 ## 2. Database
 
 - Types of database
-  - local || remote
-  - SQL || NoSQL
+  1. SQL
+  2. NoSQL
 
-<br>
 
 #### Articles
 
@@ -336,16 +337,6 @@
 
 ### 2. NoSQL - non-relational databases
 
-- **Firebase - remote storage**
-  
-  - **Arabic**
-
-    - [Firebase With Flutter by Wael Abo Hamza](https://www.youtube.com/playlist?list=PL93xoMrxRJIvHhxhB21YzzeimEEzzAz6g)
-    - [Firebase With Flutter by Hossam Hamed](https://www.youtube.com/playlist?list=PLZPZRxQG0yrrliTKMvPQpMs8CwjI54i2J)
-
-  - **Docs**
-    - [Docs](https://firebase.google.com/docs/flutter/setup?platform=ios)
-
 - **Hive - local storage**
 
   - **English**
@@ -361,7 +352,35 @@
 
 <br>
 
-## 3. API
+## 3. Firebase
+
+- Firebase is an app development platform that helps you build and grow apps and games users love. 
+- Backed by Google and trusted by millions of businesses around the world.
+
+### Firebase Products
+
+- Accelerate app development with fully managed backend infrastructure
+
+> There are a lot of products, the following are the most important ones:
+
+  1. Authenticaiton
+  2. Cloud Firestore
+  3. Storage
+  4. Messaging
+  5. App Distribution
+
+#### Arabic
+
+- [Firebase With Flutter by Wael Abo Hamza](https://www.youtube.com/playlist?list=PL93xoMrxRJIvHhxhB21YzzeimEEzzAz6g)
+- [Firebase With Flutter by Hossam Hamed](https://www.youtube.com/playlist?list=PLZPZRxQG0yrrliTKMvPQpMs8CwjI54i2J)
+
+#### Docs
+
+- [Docs](https://firebase.google.com/docs/flutter/setup?platform=ios)
+
+<br>
+
+## 4. API
 
 > If you want to use data live from the internet within your app you need to learn.
 
@@ -400,7 +419,7 @@ There are some packages that help you deal with APIs
 
 <br>
 
-## 4. State Management
+## 5. State Management
 
 > The management and manipulation of data within an app to ensure that the user interface (UI) accurately reflects the current state of the application
 
@@ -433,7 +452,7 @@ There are some packages that help you deal with APIs
 
 <br>
 
-## 5. Architecture pattern
+## 6. Architecture pattern
 
 > You can work with only one
 
@@ -453,7 +472,7 @@ Some of the prominent architectural patterns
 
 - [Unleashing Creativity: Exploring Architecture Patterns in Flutter](https://medium.com/@samra.sajjad0001/unleashing-creativity-exploring-architecture-patterns-in-flutter-12b7465bc927)
 
-## 6. Animation
+## 7. Animation
 
 > Well-designed animations make a UI feel more intuitive, contribute to the slick look and feel of a polished app, and improve the user experience.
 
@@ -467,7 +486,7 @@ Some of the prominent architectural patterns
 
 <br>
 
-## 7. Map
+## 8. Map
 
 #### English
 
@@ -480,7 +499,7 @@ Some of the prominent architectural patterns
 
 <br>
 
-## 8. Publish App
+## 9. Publish App
 
 How To Publish Your App On Google Play Store and App Store?
 
@@ -519,15 +538,16 @@ How To Publish Your App On Google Play Store and App Store?
 ## 2. Problem Solving
 
 #### RoadMap
+
 - [Neet code](https://neetcode.io/roadmap)
 - [Mostafa Saad Sheet](https://docs.google.com/spreadsheets/d/1iJZWP2nS_OB3kCTjq8L6TrJJ4o-5lhxDOyTaocSYc-k/edit#gid=84654839)
 
 #### Sites
+
 - [Leet code](https://leetcode.com/problemset/)
 - [Codeforces](https://codeforces.com/problemset)
 - [Hacker Rank](https://www.hackerrank.com/dashboard)
 
-<br>
 
 <br>
 
@@ -547,7 +567,7 @@ How To Publish Your App On Google Play Store and App Store?
 
 <br>
 
-# Recources
+# Resources
 
 ### Full Courses
 
