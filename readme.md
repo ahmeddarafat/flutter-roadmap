@@ -583,9 +583,10 @@ How To Publish Your App On Google Play Store and App Store?
 ### Books
 1. Grokky Algorithms
 2. Clean Code
-3. Head First OOAD
-4. Head First Design Patterns
-5. etc...
+3. Good Code, Bad Code
+4. Head First OOAD
+5. Head First Design Patterns
+6. etc...
 
 ### Free APIs You Can Use for Testing
 
